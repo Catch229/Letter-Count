@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572209321 source:c:\users\kolton\documents\c++ intro\pp07word_letter_count_sumnerk\main.cpp
+	<iostream>
+	<regex>
+	<bits/stdc++.h>
+	<algorithm>
+
